@@ -1,0 +1,11 @@
+C:\Dev\httpTestSolution\httpTest\bin\Debug\netcoreapp2.0\httpTest.deps.json
+C:\Dev\httpTestSolution\httpTest\bin\Debug\netcoreapp2.0\httpTest.runtimeconfig.json
+C:\Dev\httpTestSolution\httpTest\bin\Debug\netcoreapp2.0\httpTest.runtimeconfig.dev.json
+C:\Dev\httpTestSolution\httpTest\bin\Debug\netcoreapp2.0\httpTest.dll
+C:\Dev\httpTestSolution\httpTest\bin\Debug\netcoreapp2.0\httpTest.pdb
+C:\Dev\httpTestSolution\httpTest\obj\Debug\netcoreapp2.0\httpTest.csprojResolveAssemblyReference.cache
+C:\Dev\httpTestSolution\httpTest\obj\Debug\netcoreapp2.0\httpTest.csproj.CoreCompileInputs.cache
+C:\Dev\httpTestSolution\httpTest\obj\Debug\netcoreapp2.0\httpTest.AssemblyInfoInputs.cache
+C:\Dev\httpTestSolution\httpTest\obj\Debug\netcoreapp2.0\httpTest.AssemblyInfo.cs
+C:\Dev\httpTestSolution\httpTest\obj\Debug\netcoreapp2.0\httpTest.dll
+C:\Dev\httpTestSolution\httpTest\obj\Debug\netcoreapp2.0\httpTest.pdb
